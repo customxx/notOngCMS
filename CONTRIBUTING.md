@@ -1,6 +1,6 @@
 # Contributing
 
-First off, thank you for considering contributing to Gatsby Mate Starter. With the help of all the contributors this starter is always up to date and free of bugs, resulting in a better application for everybody 😄
+First off, thank you for considering contributing to Not-Ong. With the help of all the contributors this starter is always up to date and free of bugs, resulting in a most transparent  application for everybody 😄.
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue,
 assessing changes, and helping you finalize your pull requests.
