@@ -16,7 +16,7 @@ const MEDIUM_URL = 'https://medium.com';
 const Background = () => (
   <div>
     <Triangle
-      color="backgroundDark"
+      color="secondaryLight"
       height={['15vh', '10vh']}
       width={['100vw', '100vw']}
       invertX
@@ -30,7 +30,7 @@ const Background = () => (
     />
 
     <Triangle
-      color="primaryDark"
+      color="secondaryLight"
       height={['40vh', '15vh']}
       width={['100vw', '100vw']}
       invertX
@@ -68,7 +68,7 @@ const Post = ({ title, text, image, url, date, time }) => (
       <Text m={3} color="text">
         {text}
       </Text>
-      <ImageSubtitle bg="primary" color="white" x="right" y="bottom" round>
+      <ImageSubtitle bg="secondary" color="white" x="right" y="bottom" round>
         {`${date} - ${Math.ceil(time)} min`}
       </ImageSubtitle>
     </Card>

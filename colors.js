@@ -3,6 +3,7 @@ module.exports = {
   backgroundDark: '#FA7377',
 
   text: '#333333',
+  textWhite: '#F5F2F2',
 
   primary: '#1B1A1A',
   primaryLight: '#302F2F',

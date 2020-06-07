@@ -148,11 +148,11 @@ const Project = ({
               />
             </Box>
           </Flex>
-          <ImageSubtitle bg="primary" color="white" y="bottom" x="right" round>
+          <ImageSubtitle bg="secondary" color="white" y="bottom" x="right" round>
             {type}
           </ImageSubtitle>
           <Hide query={MEDIA_QUERY_SMALL}>
-            <ImageSubtitle bg="backgroundDark">{publishedDate}</ImageSubtitle>
+            <ImageSubtitle bg="textWhite">{publishedDate}</ImageSubtitle>
           </Hide>
         </ProjectTag>
       </ImageContainer>
