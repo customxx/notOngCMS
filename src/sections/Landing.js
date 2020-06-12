@@ -76,7 +76,7 @@ const LandingPage = () => (
               fontSize={[6, 7]}
               mb={[3, 4, 5]}
             >
-              Información y noticias decetralizadas
+              Contenido e investigación decentralizada, apoya la lucha y sigue los casos emblematicos de corrupción de principio a fin.
             </Heading>
 
             <Heading
